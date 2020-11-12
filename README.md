@@ -16,14 +16,20 @@ Learn NodeJS using Express. Just one way program. Signup first after program res
 ```shell
 $ npm install
 ```
-4. Start program
+4. Set your config database in config/db.config.js
+5. Start program
 ```shell
 $ node server.js
 ```
+
+
 ## TODO
 1. Change Flow one way program
 2. Enchance Authentification using Passport.js or other method
 3. Enchance documentation
+
+## API Documentation
+(Swagger)[https://app.swaggerhub.com/apis/hapidznur/Esnode/1.0.0]
 
 ## LICENCE
 MIT
